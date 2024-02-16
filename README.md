@@ -1,4 +1,4 @@
-FFT .wav file analyzer that produces plots written in Python.
+FFT .wav file analyzer that produces plots for Harmonics, Magnitude and Phases written in Python. 
 
 Libraries used are numpy, scipy.io, matplotlib, tkinter.
 
